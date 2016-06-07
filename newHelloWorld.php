@@ -1,1 +1,1 @@
-<?php echo 'New Hello World text in jenkins';  ?>
+<?php echo 'New Hello World';  ?>
